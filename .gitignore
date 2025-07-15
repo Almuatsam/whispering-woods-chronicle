@@ -1,12 +1,1 @@
-
-.DS_Store
-Thumbs.db
-
-
-*.log
-
-# Ignore temp files
-*.tmp
-*.swp
-
-
+my_story_notes.txt
